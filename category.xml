@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/hona.vomapper.feature_1.0.0.jar"
+            id="hona.vomapper.feature"
+            version="1.0.0">
+      <category name="hona.tools"/>
+   </feature>
+   <category-def name="hona.tools" label="hona Tools"/>
+</site>
